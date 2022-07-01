@@ -1,0 +1,12 @@
+.img-home{
+    /* width: 100%; */
+    width: 70vh;
+    height: 35vh;
+}
+
+.div-img-home{
+    transition: .2s;
+}
+.div-img-home:hover{
+    transform: scale(1.1);
+}
